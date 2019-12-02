@@ -1,4 +1,4 @@
-# Lang FR pour Laravel 6 - Traduction française / French translation
+# Lang FR pour Laravel : 5.8 et 6 - Traduction française / French translation
 
 
 
@@ -16,6 +16,6 @@ Package mis en ligne par :
 
 ### Détails
 
-Dans ce package, vous avez toutes les traductions françaises pour la version 6 du Framework Laravel.
+Dans ce package, vous avez toutes les traductions françaises pour la version 5.8 et 6 du Framework Laravel.
 
-Le dossier **fr** doit être rangé dans le path **resources/lang** de Laravel 6.
+Le dossier **fr** doit être rangé dans le path **resources/lang** de votre projet Laravel.
